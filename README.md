@@ -9,4 +9,3 @@ estudante universitário focado em desenvolvimento web. no momento, estudando e 
 ---
 📫 como me achar: willianvi2024@gmail.com ou no [LinkedIn](https://www.linkedin.com/in/willian-vieira-34369928b/)
 
-![Gráfico do Willian](https://github-readme-stats.vercel.app/api?username=lian47&show_icons=true&theme=vision-friendly-dark&hide_border=true)
