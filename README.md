@@ -10,4 +10,4 @@
 
 📫 **Email:** willianvi2024@gmail.com
 
-🌱 **Atualmente aprendendo:** Java
+🌱 **Atualmente aprendendo:** C#
